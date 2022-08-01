@@ -6,4 +6,4 @@
 <code><img src="https://icon-library.com/images/css-icon-png/css-icon-png-8.jpg" width="30px"/></code>
 <code><img src="https://iconape.com/wp-content/png_logo_vector/node-sass.png" width="27px"/></code>
 <code><img src="https://preview.redd.it/oxtub3jii6281.png?width=416&format=png&auto=webp&s=85b9b173f2cbcdc99c96d37dd85dda54cabe6e39" width="27px"/></code>
-<code><img src="https://w7.pngwing.com/pngs/572/734/png-transparent-responsive-web-design-bootstrap-front-end-web-development-logo-design-purple-template-web-design.png" width="27px"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="27px"/></code>
