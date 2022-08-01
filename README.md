@@ -7,4 +7,4 @@
 <code><img src="https://iconape.com/wp-content/png_logo_vector/node-sass.png" width="28px"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="31px"/></code>
 <code><img src="https://preview.redd.it/oxtub3jii6281.png?width=416&format=png&auto=webp&s=85b9b173f2cbcdc99c96d37dd85dda54cabe6e39" width="29px"/></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbmowB0esZSSjdbRaFA6mjWpRlg1EWb509VRm0wIBTgSfTU7X765Dri42gIp5X0zod8fs&usqp=CAU" width="29px"/></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbmowB0esZSSjdbRaFA6mjWpRlg1EWb509VRm0wIBTgSfTU7X765Dri42gIp5X0zod8fs&usqp=CAU" width="28px"/></code>
