@@ -13,4 +13,4 @@
 
 <br/>
 
--🚏  Current location: Kashkadarya, Uzbekiston 
+- 🚏  Current location: Kashkadarya, Uzbekiston 
