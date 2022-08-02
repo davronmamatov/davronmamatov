@@ -14,5 +14,5 @@
 <br/>
 
 - 🚏&nbsp; Current location: Kashkadarya, Uzbekiston 
-- 📞&nbsp; +998 93 289 32 32
+- 📞&nbsp; Phone number: +998 93 289 32 32
 - 📝&nbsp; How to reach me: [@davronmamatov](https://t.me/davronmamatov)
